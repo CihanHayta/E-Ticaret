@@ -2,7 +2,7 @@
 
 # özellikler
 -api kullanarak olutşrulmuştur 
--Kullanıcı dostu bir ana sayfa, ürün kategorileri ve öne çıkan ürünler.
+-Kullanıcı dostu bir ana sayfa
 -Responsive Tasarım Sayfa, mobil cihazlar için uyumlu şekilde tasarlanmıştır.
 
 
